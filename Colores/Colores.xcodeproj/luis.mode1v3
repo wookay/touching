@@ -323,20 +323,18 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A07AD3F50E83822C00DA1E7F</string>
+										<string>A025C2970E83868C00C2FC82</string>
 										<key>history</key>
 										<array>
 											<string>A07AD3E40E83821B00DA1E7F</string>
 											<string>A07AD3E50E83821B00DA1E7F</string>
-											<string>A07AD3E60E83821B00DA1E7F</string>
+											<string>A025C28E0E8385E400C2FC82</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>A0C28B750E83813000CC1BAC</string>
 											<string>A0C28B760E83813000CC1BAC</string>
-											<string>A07AD3E70E83821B00DA1E7F</string>
 											<string>A07AD3E80E83821B00DA1E7F</string>
-											<string>A07AD3E90E83821B00DA1E7F</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -394,9 +392,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A07AD3EB0E83821B00DA1E7F</string>
+				<string>A025C2950E83868C00C2FC82</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A07AD3EC0E83821B00DA1E7F</string>
+				<string>A025C2960E83868C00C2FC82</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -530,9 +528,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>A0C28B7F0E83813000CC1BAC</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/luis/git/touching/Colores/Colores.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -613,7 +608,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>A0C28B7F0E83813000CC1BAC</string>
-				<string>A07AD3ED0E83821B00DA1E7F</string>
+				<string>A025C2750E8385A500C2FC82</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -655,8 +650,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 194}}</string>
-											<string>{{316, 0}, {378, 194}}</string>
+											<string>{{0, 0}, {316, 198}}</string>
+											<string>{{316, 0}, {378, 198}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -671,8 +666,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 194}}</string>
-											<string>{{0, 194}, {694, 187}}</string>
+											<string>{{0, 0}, {694, 198}}</string>
+											<string>{{0, 198}, {694, 183}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -705,7 +700,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 194}}</string>
+									<string>{{316, 0}, {378, 198}}</string>
 									<key>RubberWindowFrame</key>
 									<string>107 295 694 422 0 0 1280 778 </string>
 								</dict>
@@ -733,13 +728,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>A07AD3EE0E83821B00DA1E7F</string>
+				<string>A025C2760E8385A500C2FC82</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>A07AD3EF0E83821B00DA1E7F</string>
-				<string>A07AD3F00E83821B00DA1E7F</string>
-				<string>A07AD3F10E83821B00DA1E7F</string>
-				<string>A07AD3F20E83821B00DA1E7F</string>
-				<string>A07AD3F30E83821B00DA1E7F</string>
+				<string>A025C2770E8385A500C2FC82</string>
+				<string>A025C2780E8385A500C2FC82</string>
+				<string>A025C2790E8385A500C2FC82</string>
+				<string>A025C27A0E8385A500C2FC82</string>
+				<string>A025C27B0E8385A500C2FC82</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -901,7 +896,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>A07AD3F40E83821B00DA1E7F</string>
+				<string>A025C27C0E8385A500C2FC82</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
