@@ -3,15 +3,15 @@
 	1D3623240D0F684500981E51 /* ColoresAppDelegate.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {556, 399}}";
-			sepNavSelRange = "{39, 0}";
-			sepNavVisRange = "{129, 225}";
+			sepNavSelRange = "{308, 38}";
+			sepNavVisRange = "{76, 278}";
 		};
 	};
 	1D3623250D0F684500981E51 /* ColoresAppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {796, 665}}";
-			sepNavSelRange = "{743, 0}";
-			sepNavVisRange = "{200, 259}";
+			sepNavSelRange = "{488, 13}";
+			sepNavVisRange = "{397, 381}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Colores */ = {
@@ -76,15 +76,15 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 243751641;
-			PBXWorkspaceStateSaveDate = 243751641;
+			PBXPerProjectTemplateStateSaveDate = 244547569;
+			PBXWorkspaceStateSaveDate = 244547569;
 		};
 		perUserProjectItems = {
-			A02537AD0E875AE500AEFC3D /* PBXTextBookmark */ = A02537AD0E875AE500AEFC3D /* PBXTextBookmark */;
-			A02537AE0E875AE500AEFC3D /* PBXTextBookmark */ = A02537AE0E875AE500AEFC3D /* PBXTextBookmark */;
-			A068C2CD0E84BBDA001231E9 /* PBXTextBookmark */ = A068C2CD0E84BBDA001231E9 /* PBXTextBookmark */;
-			A068C2DA0E84BBE0001231E9 /* PBXTextBookmark */ = A068C2DA0E84BBE0001231E9 /* PBXTextBookmark */;
+			A07278BD0E9369BE002FF6D1 /* PBXTextBookmark */ = A07278BD0E9369BE002FF6D1 /* PBXTextBookmark */;
 			A07AD3E80E83821B00DA1E7F /* PBXTextBookmark */ = A07AD3E80E83821B00DA1E7F /* PBXTextBookmark */;
+			A0A9A43A0E937FFB0081B2B1 /* PBXTextBookmark */ = A0A9A43A0E937FFB0081B2B1 /* PBXTextBookmark */;
+			A0A9A4510E93805F0081B2B1 /* PBXTextBookmark */ = A0A9A4510E93805F0081B2B1 /* PBXTextBookmark */;
+			A0AAD4110E8781DB002E1FCF /* PBXTextBookmark */ = A0AAD4110E8781DB002E1FCF /* PBXTextBookmark */;
 			A0C28B750E83813000CC1BAC /* PBXTextBookmark */ = A0C28B750E83813000CC1BAC /* PBXTextBookmark */;
 			A0C28B760E83813000CC1BAC /* PBXTextBookmark */ = A0C28B760E83813000CC1BAC /* PBXTextBookmark */;
 		};
@@ -92,50 +92,20 @@
 		userBuildSettings = {
 		};
 	};
-	A02537AD0E875AE500AEFC3D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = A07AD3DE0E8381DE00DA1E7F /* README */;
-		name = "README: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 91;
-		vrLoc = 0;
-	};
-	A02537AE0E875AE500AEFC3D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = A07AD3DE0E8381DE00DA1E7F /* README */;
-		name = "README: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 91;
-		vrLoc = 0;
-	};
-	A068C2CD0E84BBDA001231E9 /* PBXTextBookmark */ = {
+	A07278BD0E9369BE002FF6D1 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* ColoresAppDelegate.m */;
-		name = "ColoresAppDelegate.m: 32";
-		rLen = 0;
-		rLoc = 743;
+		name = "ColoresAppDelegate.m: 28";
+		rLen = 13;
+		rLoc = 488;
 		rType = 0;
-		vrLen = 259;
-		vrLoc = 200;
-	};
-	A068C2DA0E84BBE0001231E9 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* ColoresAppDelegate.h */;
-		name = "ColoresAppDelegate.h: 3";
-		rLen = 0;
-		rLoc = 39;
-		rType = 0;
-		vrLen = 225;
-		vrLoc = 129;
+		vrLen = 381;
+		vrLoc = 397;
 	};
 	A07AD3DE0E8381DE00DA1E7F /* README */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavSelRange = "{43, 48}";
 			sepNavVisRange = "{0, 91}";
 		};
 	};
@@ -148,6 +118,36 @@
 		rType = 0;
 		vrLen = 17;
 		vrLoc = 0;
+	};
+	A0A9A43A0E937FFB0081B2B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A07AD3DE0E8381DE00DA1E7F /* README */;
+		name = "README: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 91;
+		vrLoc = 0;
+	};
+	A0A9A4510E93805F0081B2B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A07AD3DE0E8381DE00DA1E7F /* README */;
+		name = "README: 10";
+		rLen = 48;
+		rLoc = 43;
+		rType = 0;
+		vrLen = 91;
+		vrLoc = 0;
+	};
+	A0AAD4110E8781DB002E1FCF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ColoresAppDelegate.h */;
+		name = "ColoresAppDelegate.h: 17";
+		rLen = 38;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 278;
+		vrLoc = 76;
 	};
 	A0C28B480E837F1C00CC1BAC /* Colores */ = {
 		isa = PBXExecutable;
