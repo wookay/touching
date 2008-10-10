@@ -15,6 +15,7 @@
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		A06CB7E70E873786006B1B33 /* AcontecimientoView.m in Sources */ = {isa = PBXBuildFile; fileRef = A06CB7E60E873786006B1B33 /* AcontecimientoView.m */; };
 		A07266F80E87598800486A4A /* README in Resources */ = {isa = PBXBuildFile; fileRef = A07266F70E87598800486A4A /* README */; };
+		A0CEFF360E9FDF6C00A8EB66 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A0CEFF350E9FDF6C00A8EB66 /* Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		A06CB7E50E873786006B1B33 /* AcontecimientoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AcontecimientoView.h; sourceTree = "<group>"; };
 		A06CB7E60E873786006B1B33 /* AcontecimientoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AcontecimientoView.m; sourceTree = "<group>"; };
 		A07266F70E87598800486A4A /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		A0CEFF350E9FDF6C00A8EB66 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A0CEFF350E9FDF6C00A8EB66 /* Icon.png */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				A07266F80E87598800486A4A /* README in Resources */,
+				A0CEFF360E9FDF6C00A8EB66 /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
