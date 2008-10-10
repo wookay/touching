@@ -228,6 +228,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -264,12 +266,14 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
+								<string>080E96DDFE201D6D7F000001</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>1</integer>
+									<integer>4</integer>
+									<integer>2</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -304,14 +308,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>README</string>
+								<string>ColoresAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -319,23 +321,23 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>README</string>
+										<string>ColoresAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A0FD3A5C0E978264001F5809</string>
+										<string>A07AB9580E990C9100F53627</string>
 										<key>history</key>
 										<array>
-											<string>A0FD39A70E977946001F5809</string>
 											<string>A0FD3A590E978264001F5809</string>
-											<string>A0FD3A5A0E978264001F5809</string>
+											<string>A07AB9550E990C9100F53627</string>
+											<string>A07AB9560E990C9100F53627</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>A0C28B750E83813000CC1BAC</string>
 											<string>A0C28B760E83813000CC1BAC</string>
 											<string>A07AD3E80E83821B00DA1E7F</string>
-											<string>A0FD3A5B0E978264001F5809</string>
+											<string>A07AB9570E990C9100F53627</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -393,9 +395,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A0FD3A5D0E978264001F5809</string>
+				<string>A07AB9590E990C9100F53627</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A0FD3A5E0E978264001F5809</string>
+				<string>A07AB95A0E990C9100F53627</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
