@@ -51,14 +51,13 @@
 - (void)flyAnimationDidStop:(NSString *)animationID finished:(bool)finished context:(void *)context {
 }
 
+#define radians(degrees) degrees * M_PI / 180
+
 - (IBAction) touchedRotateButton:(id)sender {
-  NSMutableArray* animations = [NSMutableArray array];	
-  UITransformAnimation* ta = [[UITransformAnimation alloc] initWithTarget:birdView];	
-  CGAffineTransform t = [birdView transform];
-  [ta setStartTransform:t];
-  [ta setEndTransform:CGAffineTransformRotate(t, -5)];
-	[animations addObject:ta];
-	[[UIAnimator sharedAnimator] addAnimations:animations withDuration:1 start:YES];
+  CALayer* layer = [birdView layer];
+  [layer setValue:[NSNumber numberWithFloat:0.5] forKeyPath:@"anchorPoint.x"];
+  [layer setValue:[NSNumber numberWithFloat:0.5] forKeyPath:@"anchorPoint.y"];
+  birdView.transform = CGAffineTransformRotate([birdView transform], radians(45));
 }
 
 @end
