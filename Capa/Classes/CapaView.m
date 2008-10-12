@@ -96,9 +96,11 @@
   if ([swit isOn]) {
     [layer setValue:[NSNumber numberWithFloat:1.2] forKeyPath:@"transform.scale.x"];
     [layer setValue:[NSNumber numberWithFloat:1.2] forKeyPath:@"transform.scale.y"];
+    [layer setValue:[NSNumber numberWithFloat:1.2] forKeyPath:@"transform.scale.z"];    
   } else {
     [layer setValue:[NSNumber numberWithFloat:1.0] forKeyPath:@"transform.scale.x"];
     [layer setValue:[NSNumber numberWithFloat:1.0] forKeyPath:@"transform.scale.y"];
+    [layer setValue:[NSNumber numberWithFloat:1.0] forKeyPath:@"transform.scale.z"];    
   }
   [self updateInspectView:sender];
 }
