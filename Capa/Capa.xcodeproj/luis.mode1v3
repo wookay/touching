@@ -228,8 +228,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -266,12 +264,14 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
+								<string>080E96DDFE201D6D7F000001</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>1</integer>
+									<integer>6</integer>
+									<integer>2</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -295,7 +295,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>61 88 1144 690 0 0 1280 778 </string>
+						<string>-132 88 1144 690 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -306,12 +306,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>README</string>
+								<string>CapaView.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -319,18 +321,18 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>README</string>
+										<string>CapaView.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A062F9B40EA1E75200406F44</string>
+										<string>A09FB5BA0EA458E00079056A</string>
 										<key>history</key>
 										<array>
-											<string>A062F9330EA1DCE800406F44</string>
 											<string>A062F94E0EA1DDAD00406F44</string>
-											<string>A062F9AE0EA1E75200406F44</string>
-											<string>A062F9AF0EA1E75200406F44</string>
-											<string>A062F9B00EA1E75200406F44</string>
+											<string>A062FB5E0EA2F60700406F44</string>
+											<string>A062FC860EA2FEE700406F44</string>
+											<string>A0B512890EA33ACB007D55FE</string>
+											<string>A0B512ED0EA33ECF007D55FE</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -339,9 +341,6 @@
 											<string>A062F86C0EA1CF4D00406F44</string>
 											<string>A062F86D0EA1CF4D00406F44</string>
 											<string>A062F9370EA1DCE800406F44</string>
-											<string>A062F9B10EA1E75200406F44</string>
-											<string>A062F9B20EA1E75200406F44</string>
-											<string>A062F9B30EA1E75200406F44</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -355,7 +354,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {936, 471}}</string>
 								<key>RubberWindowFrame</key>
-								<string>61 88 1144 690 0 0 1280 778 </string>
+								<string>-132 88 1144 690 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -375,7 +374,7 @@
 								<key>Frame</key>
 								<string>{{0, 476}, {936, 173}}</string>
 								<key>RubberWindowFrame</key>
-								<string>61 88 1144 690 0 0 1280 778 </string>
+								<string>-132 88 1144 690 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -399,9 +398,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A062F9A30EA1E66E00406F44</string>
+				<string>A09FB5BB0EA458E00079056A</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A062F9A40EA1E66E00406F44</string>
+				<string>A09FB5BC0EA458E00079056A</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -535,13 +534,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>A062F81D0EA1CBAF00406F44</string>
 		<string>/Users/luis/git/touching/Capa/Capa.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>61 88 1144 690 0 0 1280 778 </string>
+	<string>-132 88 1144 690 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
