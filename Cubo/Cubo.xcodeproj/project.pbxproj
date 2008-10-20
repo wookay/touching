@@ -7,37 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D3623260D0F684500981E51 /* CapturaAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* CapturaAppDelegate.m */; };
+		1D3623260D0F684500981E51 /* CuboAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* CuboAppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
-		A0B851E30EA864D50095A1AC /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A0B851E20EA864D50095A1AC /* Icon.png */; };
-		A0EF0E610EA57A5200EAC1C7 /* DrawView.m in Sources */ = {isa = PBXBuildFile; fileRef = A0EF0E600EA57A5200EAC1C7 /* DrawView.m */; };
-		A0EF0EAA0EA57CD400EAC1C7 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0EF0EA90EA57CD400EAC1C7 /* QuartzCore.framework */; };
-		A0EF10040EA59BEE00EAC1C7 /* CapturaView.m in Sources */ = {isa = PBXBuildFile; fileRef = A0EF10030EA59BEE00EAC1C7 /* CapturaView.m */; };
-		A0EF102D0EA59D9000EAC1C7 /* README in Resources */ = {isa = PBXBuildFile; fileRef = A0EF102C0EA59D9000EAC1C7 /* README */; };
+		A02C6F720EAC518E00F9FA96 /* TrackBall.m in Sources */ = {isa = PBXBuildFile; fileRef = A02C6F700EAC518E00F9FA96 /* TrackBall.m */; };
+		A02C6F780EAC51BA00F9FA96 /* CuboView.m in Sources */ = {isa = PBXBuildFile; fileRef = A02C6F770EAC51BA00F9FA96 /* CuboView.m */; };
+		A02C6F800EAC527400F9FA96 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A02C6F7F0EAC527400F9FA96 /* QuartzCore.framework */; };
+		A02C71C20EAC753F00F9FA96 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A02C71C10EAC753F00F9FA96 /* Icon.png */; };
+		A02C71C60EAC755D00F9FA96 /* README in Resources */ = {isa = PBXBuildFile; fileRef = A02C71C50EAC755D00F9FA96 /* README */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* CapturaAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CapturaAppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* CapturaAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CapturaAppDelegate.m; sourceTree = "<group>"; };
-		1D6058910D05DD3D006BFB54 /* Captura.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Captura.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D3623240D0F684500981E51 /* CuboAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CuboAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* CuboAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CuboAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Cubo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cubo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		32CA4F630368D1EE00C91783 /* Captura_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Captura_Prefix.pch; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Cubo_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cubo_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A0B851E20EA864D50095A1AC /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		A0EF0E5F0EA57A5200EAC1C7 /* DrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawView.h; sourceTree = "<group>"; };
-		A0EF0E600EA57A5200EAC1C7 /* DrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawView.m; sourceTree = "<group>"; };
-		A0EF0EA90EA57CD400EAC1C7 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		A0EF10020EA59BEE00EAC1C7 /* CapturaView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CapturaView.h; sourceTree = "<group>"; };
-		A0EF10030EA59BEE00EAC1C7 /* CapturaView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CapturaView.m; sourceTree = "<group>"; };
-		A0EF102C0EA59D9000EAC1C7 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		A02C6F700EAC518E00F9FA96 /* TrackBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TrackBall.m; path = Classes/TrackBall.m; sourceTree = "<group>"; };
+		A02C6F710EAC518E00F9FA96 /* TrackBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TrackBall.h; path = Classes/TrackBall.h; sourceTree = "<group>"; };
+		A02C6F760EAC51BA00F9FA96 /* CuboView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CuboView.h; sourceTree = "<group>"; };
+		A02C6F770EAC51BA00F9FA96 /* CuboView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CuboView.m; sourceTree = "<group>"; };
+		A02C6F7F0EAC527400F9FA96 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		A02C71C10EAC753F00F9FA96 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		A02C71C50EAC755D00F9FA96 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +48,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
-				A0EF0EAA0EA57CD400EAC1C7 /* QuartzCore.framework in Frameworks */,
+				A02C6F800EAC527400F9FA96 /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,12 +58,10 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				1D3623240D0F684500981E51 /* CapturaAppDelegate.h */,
-				1D3623250D0F684500981E51 /* CapturaAppDelegate.m */,
-				A0EF0E5F0EA57A5200EAC1C7 /* DrawView.h */,
-				A0EF0E600EA57A5200EAC1C7 /* DrawView.m */,
-				A0EF10020EA59BEE00EAC1C7 /* CapturaView.h */,
-				A0EF10030EA59BEE00EAC1C7 /* CapturaView.m */,
+				1D3623240D0F684500981E51 /* CuboAppDelegate.h */,
+				1D3623250D0F684500981E51 /* CuboAppDelegate.m */,
+				A02C6F760EAC51BA00F9FA96 /* CuboView.h */,
+				A02C6F770EAC51BA00F9FA96 /* CuboView.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -71,7 +69,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D6058910D05DD3D006BFB54 /* Captura.app */,
+				1D6058910D05DD3D006BFB54 /* Cubo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -79,8 +77,9 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				A0EF102C0EA59D9000EAC1C7 /* README */,
+				A02C71C50EAC755D00F9FA96 /* README */,
 				080E96DDFE201D6D7F000001 /* Classes */,
+				A02C6F730EAC519700F9FA96 /* TrackBall */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
@@ -92,7 +91,7 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				32CA4F630368D1EE00C91783 /* Captura_Prefix.pch */,
+				32CA4F630368D1EE00C91783 /* Cubo_Prefix.pch */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 			);
 			name = "Other Sources";
@@ -101,7 +100,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A0B851E20EA864D50095A1AC /* Icon.png */,
+				A02C71C10EAC753F00F9FA96 /* Icon.png */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 			);
@@ -111,7 +110,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A0EF0EA90EA57CD400EAC1C7 /* QuartzCore.framework */,
+				A02C6F7F0EAC527400F9FA96 /* QuartzCore.framework */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
@@ -119,12 +118,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		A02C6F730EAC519700F9FA96 /* TrackBall */ = {
+			isa = PBXGroup;
+			children = (
+				A02C6F700EAC518E00F9FA96 /* TrackBall.m */,
+				A02C6F710EAC518E00F9FA96 /* TrackBall.h */,
+			);
+			name = TrackBall;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1D6058900D05DD3D006BFB54 /* Captura */ = {
+		1D6058900D05DD3D006BFB54 /* Cubo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Captura" */;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Cubo" */;
 			buildPhases = (
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
@@ -134,9 +142,9 @@
 			);
 			dependencies = (
 			);
-			name = Captura;
-			productName = Captura;
-			productReference = 1D6058910D05DD3D006BFB54 /* Captura.app */;
+			name = Cubo;
+			productName = Cubo;
+			productReference = 1D6058910D05DD3D006BFB54 /* Cubo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -144,14 +152,14 @@
 /* Begin PBXProject section */
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Captura" */;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Cubo" */;
 			compatibilityVersion = "Xcode 3.1";
 			hasScannedForEncodings = 1;
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1D6058900D05DD3D006BFB54 /* Captura */,
+				1D6058900D05DD3D006BFB54 /* Cubo */,
 			);
 		};
 /* End PBXProject section */
@@ -162,8 +170,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
-				A0EF102D0EA59D9000EAC1C7 /* README in Resources */,
-				A0B851E30EA864D50095A1AC /* Icon.png in Resources */,
+				A02C71C20EAC753F00F9FA96 /* Icon.png in Resources */,
+				A02C71C60EAC755D00F9FA96 /* README in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,9 +183,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				1D3623260D0F684500981E51 /* CapturaAppDelegate.m in Sources */,
-				A0EF0E610EA57A5200EAC1C7 /* DrawView.m in Sources */,
-				A0EF10040EA59BEE00EAC1C7 /* CapturaView.m in Sources */,
+				1D3623260D0F684500981E51 /* CuboAppDelegate.m in Sources */,
+				A02C6F720EAC518E00F9FA96 /* TrackBall.m in Sources */,
+				A02C6F780EAC51BA00F9FA96 /* CuboView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,9 +200,9 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = Captura_Prefix.pch;
+				GCC_PREFIX_HEADER = Cubo_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
-				PRODUCT_NAME = Captura;
+				PRODUCT_NAME = Cubo;
 			};
 			name = Debug;
 		};
@@ -204,9 +212,9 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = Captura_Prefix.pch;
+				GCC_PREFIX_HEADER = Cubo_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
-				PRODUCT_NAME = Captura;
+				PRODUCT_NAME = Cubo;
 			};
 			name = Release;
 		};
@@ -240,7 +248,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Captura" */ = {
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Cubo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D6058940D05DD3E006BFB54 /* Debug */,
@@ -249,7 +257,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Captura" */ = {
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Cubo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug */,

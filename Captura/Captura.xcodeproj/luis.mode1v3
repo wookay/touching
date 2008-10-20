@@ -228,6 +228,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -269,6 +271,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -292,7 +295,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>15 88 1177 690 0 0 1280 778 </string>
+						<string>603 88 1177 690 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -303,8 +306,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -322,151 +323,32 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A0EF109A0EA5A24D00EAC1C7</string>
+										<string>A02C705B0EAC5EE000F9FA96</string>
 										<key>history</key>
 										<array>
 											<string>A0EF10320EA59D9800EAC1C7</string>
-											<string>A0EF10400EA59F8F00EAC1C7</string>
-											<string>A0EF10860EA5A11900EAC1C7</string>
-											<string>A0EF10870EA5A11900EAC1C7</string>
-											<string>A0EF10880EA5A11900EAC1C7</string>
-											<string>A0EF10890EA5A11900EAC1C7</string>
-											<string>A0EF108A0EA5A11900EAC1C7</string>
+											<string>A0B851E60EA864F50095A1AC</string>
+											<string>A0B851E90EA864F50095A1AC</string>
+											<string>A0B851EA0EA864F50095A1AC</string>
+											<string>A02C70530EAC5EE000F9FA96</string>
+											<string>A02C70540EAC5EE000F9FA96</string>
+											<string>A02C70550EAC5EE000F9FA96</string>
+											<string>A02C70560EAC5EE000F9FA96</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>A0EF0E670EA57AD300EAC1C7</string>
 											<string>A0EF0E680EA57AD300EAC1C7</string>
-											<string>A0EF0E690EA57AD300EAC1C7</string>
 											<string>A0EF0E6A0EA57AD300EAC1C7</string>
 											<string>A0EF0E6B0EA57AD300EAC1C7</string>
-											<string>A0EF0E6C0EA57AD300EAC1C7</string>
-											<string>A0EF0E6D0EA57AD300EAC1C7</string>
-											<string>A0EF0E6E0EA57AD300EAC1C7</string>
-											<string>A0EF0E7B0EA57B9F00EAC1C7</string>
-											<string>A0EF0EA00EA57CB600EAC1C7</string>
-											<string>A0EF0EA10EA57CB600EAC1C7</string>
-											<string>A0EF0EA20EA57CB600EAC1C7</string>
-											<string>A0EF0EA30EA57CB600EAC1C7</string>
-											<string>A0EF0EA40EA57CB600EAC1C7</string>
-											<string>A0EF0EA50EA57CB600EAC1C7</string>
-											<string>A0EF0EA60EA57CB600EAC1C7</string>
-											<string>A0EF0ED70EA5804B00EAC1C7</string>
-											<string>A0EF0ED80EA5804B00EAC1C7</string>
-											<string>A0EF0F040EA584A800EAC1C7</string>
-											<string>A0EF0F050EA584A800EAC1C7</string>
-											<string>A0EF0F060EA584A800EAC1C7</string>
-											<string>A0EF0F0B0EA584C300EAC1C7</string>
-											<string>A0EF0F120EA5852C00EAC1C7</string>
-											<string>A0EF0F130EA5852C00EAC1C7</string>
-											<string>A0EF0F140EA5852C00EAC1C7</string>
-											<string>A0EF0F2C0EA5929500EAC1C7</string>
-											<string>A0EF0F2D0EA5929500EAC1C7</string>
-											<string>A0EF0F2E0EA5929500EAC1C7</string>
-											<string>A0EF0F4F0EA5938000EAC1C7</string>
-											<string>A0EF0F550EA5939500EAC1C7</string>
-											<string>A0EF0F560EA5939500EAC1C7</string>
-											<string>A0EF0F5E0EA593B800EAC1C7</string>
-											<string>A0EF0F5F0EA593B800EAC1C7</string>
-											<string>A0EF0F600EA593B800EAC1C7</string>
-											<string>A0EF0F6C0EA593E000EAC1C7</string>
-											<string>A0EF0F760EA5943100EAC1C7</string>
-											<string>A0EF0F770EA5943100EAC1C7</string>
-											<string>A0EF0F780EA5943100EAC1C7</string>
-											<string>A0EF0F790EA5943100EAC1C7</string>
-											<string>A0EF0F7A0EA5943100EAC1C7</string>
-											<string>A0EF0F7B0EA5943100EAC1C7</string>
-											<string>A0EF0F7C0EA5943100EAC1C7</string>
-											<string>A0EF0F820EA5944C00EAC1C7</string>
-											<string>A0EF0F830EA5944C00EAC1C7</string>
-											<string>A0EF0F880EA5945C00EAC1C7</string>
-											<string>A0EF0F920EA594D900EAC1C7</string>
-											<string>A0EF0F930EA594D900EAC1C7</string>
-											<string>A0EF0F940EA594D900EAC1C7</string>
-											<string>A0EF0F9D0EA5950B00EAC1C7</string>
-											<string>A0EF0F9E0EA5950B00EAC1C7</string>
-											<string>A0EF0F9F0EA5950B00EAC1C7</string>
-											<string>A0EF0FA00EA5950B00EAC1C7</string>
-											<string>A0EF0FA10EA5950B00EAC1C7</string>
-											<string>A0EF0FA20EA5950B00EAC1C7</string>
-											<string>A0EF0FA60EA5951000EAC1C7</string>
-											<string>A0EF0FAE0EA5952B00EAC1C7</string>
-											<string>A0EF0FBC0EA5959600EAC1C7</string>
-											<string>A0EF0FBD0EA5959600EAC1C7</string>
-											<string>A0EF0FBE0EA5959600EAC1C7</string>
-											<string>A0EF0FBF0EA5959600EAC1C7</string>
-											<string>A0EF0FC00EA5959600EAC1C7</string>
-											<string>A0EF0FC10EA5959600EAC1C7</string>
-											<string>A0EF0FC20EA5959600EAC1C7</string>
-											<string>A0EF0FC30EA5959600EAC1C7</string>
-											<string>A0EF0FC40EA5959600EAC1C7</string>
-											<string>A0EF0FC50EA5959600EAC1C7</string>
-											<string>A0EF0FCA0EA5968400EAC1C7</string>
-											<string>A0EF0FCF0EA596AB00EAC1C7</string>
-											<string>A0EF0FDB0EA598FB00EAC1C7</string>
-											<string>A0EF0FDC0EA598FB00EAC1C7</string>
-											<string>A0EF0FDD0EA598FB00EAC1C7</string>
-											<string>A0EF0FDE0EA598FB00EAC1C7</string>
-											<string>A0EF0FDF0EA598FB00EAC1C7</string>
-											<string>A0EF0FE00EA598FB00EAC1C7</string>
-											<string>A0EF0FE10EA598FB00EAC1C7</string>
-											<string>A0EF0FE20EA598FB00EAC1C7</string>
-											<string>A0EF0FE30EA598FB00EAC1C7</string>
-											<string>A0EF0FE40EA598FB00EAC1C7</string>
-											<string>A0EF0FE80EA5992000EAC1C7</string>
-											<string>A0EF100A0EA59C5500EAC1C7</string>
 											<string>A0EF100B0EA59C5500EAC1C7</string>
-											<string>A0EF100C0EA59C5500EAC1C7</string>
-											<string>A0EF100D0EA59C5500EAC1C7</string>
-											<string>A0EF100E0EA59C5500EAC1C7</string>
-											<string>A0EF100F0EA59C5500EAC1C7</string>
-											<string>A0EF10100EA59C5500EAC1C7</string>
-											<string>A0EF10110EA59C5500EAC1C7</string>
-											<string>A0EF10120EA59C5500EAC1C7</string>
-											<string>A0EF10130EA59C5500EAC1C7</string>
 											<string>A0EF10140EA59C5500EAC1C7</string>
-											<string>A0EF10150EA59C5500EAC1C7</string>
-											<string>A0EF10160EA59C5500EAC1C7</string>
-											<string>A0EF10230EA59D2800EAC1C7</string>
-											<string>A0EF10240EA59D2800EAC1C7</string>
-											<string>A0EF10250EA59D2800EAC1C7</string>
-											<string>A0EF10260EA59D2800EAC1C7</string>
-											<string>A0EF10270EA59D2800EAC1C7</string>
-											<string>A0EF10280EA59D2800EAC1C7</string>
-											<string>A0EF10350EA59D9800EAC1C7</string>
-											<string>A0EF10360EA59D9800EAC1C7</string>
-											<string>A0EF10370EA59D9800EAC1C7</string>
-											<string>A0EF10380EA59D9800EAC1C7</string>
-											<string>A0EF10390EA59D9800EAC1C7</string>
-											<string>A0EF103A0EA59D9800EAC1C7</string>
-											<string>A0EF103B0EA59D9800EAC1C7</string>
 											<string>A0EF10440EA59F8F00EAC1C7</string>
-											<string>A0EF10450EA59F8F00EAC1C7</string>
-											<string>A0EF10460EA59F8F00EAC1C7</string>
-											<string>A0EF10470EA59F8F00EAC1C7</string>
-											<string>A0EF10480EA59F8F00EAC1C7</string>
-											<string>A0EF10490EA59F8F00EAC1C7</string>
-											<string>A0EF10500EA59FAF00EAC1C7</string>
-											<string>A0EF10510EA59FAF00EAC1C7</string>
-											<string>A0EF10520EA59FAF00EAC1C7</string>
-											<string>A0EF10530EA59FAF00EAC1C7</string>
-											<string>A0EF10590EA59FE600EAC1C7</string>
-											<string>A0EF105A0EA59FE600EAC1C7</string>
-											<string>A0EF106C0EA5A00300EAC1C7</string>
-											<string>A0EF108B0EA5A11900EAC1C7</string>
-											<string>A0EF108C0EA5A11900EAC1C7</string>
-											<string>A0EF108D0EA5A11900EAC1C7</string>
-											<string>A0EF108E0EA5A11900EAC1C7</string>
-											<string>A0EF108F0EA5A11900EAC1C7</string>
-											<string>A0EF10900EA5A11900EAC1C7</string>
-											<string>A0EF10910EA5A11900EAC1C7</string>
-											<string>A0EF10920EA5A11900EAC1C7</string>
-											<string>A0EF10930EA5A11900EAC1C7</string>
-											<string>A0EF10940EA5A11900EAC1C7</string>
-											<string>A0EF10950EA5A11900EAC1C7</string>
-											<string>A0EF10960EA5A11900EAC1C7</string>
-											<string>A0EF10970EA5A11900EAC1C7</string>
-											<string>A0EF10980EA5A11900EAC1C7</string>
+											<string>A0B851F30EA864F50095A1AC</string>
+											<string>A02C70570EAC5EE000F9FA96</string>
+											<string>A02C70580EAC5EE000F9FA96</string>
+											<string>A02C70590EAC5EE000F9FA96</string>
+											<string>A02C705A0EAC5EE000F9FA96</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -480,7 +362,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {969, 471}}</string>
 								<key>RubberWindowFrame</key>
-								<string>15 88 1177 690 0 0 1280 778 </string>
+								<string>603 88 1177 690 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -500,7 +382,7 @@
 								<key>Frame</key>
 								<string>{{0, 476}, {969, 173}}</string>
 								<key>RubberWindowFrame</key>
-								<string>15 88 1177 690 0 0 1280 778 </string>
+								<string>603 88 1177 690 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -524,9 +406,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A0EF0E580EA5792400EAC1C7</string>
+				<string>A02C705C0EAC5EE000F9FA96</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A0EF0E590EA5792400EAC1C7</string>
+				<string>A02C705D0EAC5EE000F9FA96</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -660,15 +542,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>A0EF0F440EA5934500EAC1C7</string>
-		<string>A0EF0F450EA5934500EAC1C7</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>A0EF0E7D0EA57B9F00EAC1C7</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/luis/git/touching/Captura/Captura.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>15 88 1177 690 0 0 1280 778 </string>
+	<string>603 88 1177 690 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -689,7 +566,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>DrawView.m</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -706,8 +583,6 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -747,7 +622,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>A0EF0E7D0EA57B9F00EAC1C7</string>
-				<string>A0EF0E7E0EA57B9F00EAC1C7</string>
+				<string>A0B851F70EA864F50095A1AC</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -789,8 +664,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 185}}</string>
-											<string>{{316, 0}, {378, 185}}</string>
+											<string>{{0, 0}, {316, 201}}</string>
+											<string>{{316, 0}, {378, 201}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -805,8 +680,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 185}}</string>
-											<string>{{0, 185}, {694, 196}}</string>
+											<string>{{0, 0}, {694, 201}}</string>
+											<string>{{0, 201}, {694, 180}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -839,7 +714,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 185}}</string>
+									<string>{{316, 0}, {378, 201}}</string>
 									<key>RubberWindowFrame</key>
 									<string>62 215 694 422 0 0 1280 778 </string>
 								</dict>
@@ -867,13 +742,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>A0EF0E8F0EA57C8E00EAC1C7</string>
+				<string>A0B851F80EA864F50095A1AC</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>A0EF0E900EA57C8E00EAC1C7</string>
-				<string>A0EF0E910EA57C8E00EAC1C7</string>
-				<string>A0EF0E920EA57C8E00EAC1C7</string>
-				<string>A0EF0E930EA57C8E00EAC1C7</string>
-				<string>A0EF0E940EA57C8E00EAC1C7</string>
+				<string>A0B851F90EA864F50095A1AC</string>
+				<string>A0B851FA0EA864F50095A1AC</string>
+				<string>A0B851FB0EA864F50095A1AC</string>
+				<string>A0B851FC0EA864F50095A1AC</string>
+				<string>A0B851FD0EA864F50095A1AC</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -1000,8 +875,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -1037,7 +910,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>A0EF0EDA0EA5804B00EAC1C7</string>
+				<string>A0B851FE0EA864F50095A1AC</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
@@ -1047,7 +920,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>
