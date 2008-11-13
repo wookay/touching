@@ -8,11 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ColoresAppDelegate : NSObject <UIApplicationDelegate> {  
-  UIWindow *window;
+@interface ColoresAppDelegate : NSObject <UIApplicationDelegate, UIPickerViewDelegate> {  
+  UIWindow* window;
+  IBOutlet UIPickerView* colorPicker;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
+@property (nonatomic, retain) IBOutlet UIPickerView* colorPicker;
 
 - (IBAction) changeColores:(id)sender;
 
