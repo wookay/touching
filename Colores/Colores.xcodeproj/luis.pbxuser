@@ -23,6 +23,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = A0C28B480E837F1C00CC1BAC /* Colores */;
+		activeSDKPreference = iphoneos2.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Colores */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* Colores */,
@@ -76,8 +77,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 248248955;
-			PBXWorkspaceStateSaveDate = 248248955;
+			PBXPerProjectTemplateStateSaveDate = 249220790;
+			PBXWorkspaceStateSaveDate = 249220790;
 		};
 		perUserProjectItems = {
 			A00DD5F80ECBB9DA00D7CBCC /* PBXTextBookmark */ = A00DD5F80ECBB9DA00D7CBCC /* PBXTextBookmark */;
@@ -87,8 +88,8 @@
 			A0AA52B20ECBF8AF00A4E946 /* PBXTextBookmark */ = A0AA52B20ECBF8AF00A4E946 /* PBXTextBookmark */;
 			A0AA52B30ECBF8AF00A4E946 /* PBXTextBookmark */ = A0AA52B30ECBF8AF00A4E946 /* PBXTextBookmark */;
 			A0AA52BC0ECBF8AF00A4E946 /* PBXTextBookmark */ = A0AA52BC0ECBF8AF00A4E946 /* PBXTextBookmark */;
-			A0AA53080ECBF8E300A4E946 /* PBXTextBookmark */ = A0AA53080ECBF8E300A4E946 /* PBXTextBookmark */;
 			A0AA53750ECBFAA700A4E946 /* PBXTextBookmark */ = A0AA53750ECBFAA700A4E946 /* PBXTextBookmark */;
+			A0AF953A0EDACF25004F40EC /* PBXTextBookmark */ = A0AF953A0EDACF25004F40EC /* PBXTextBookmark */;
 			A0C28B750E83813000CC1BAC /* PBXTextBookmark */ = A0C28B750E83813000CC1BAC /* PBXTextBookmark */;
 			A0C28B760E83813000CC1BAC /* PBXTextBookmark */ = A0C28B760E83813000CC1BAC /* PBXTextBookmark */;
 		};
@@ -189,17 +190,17 @@
 		vrLen = 1322;
 		vrLoc = 0;
 	};
-	A0AA53080ECBF8E300A4E946 /* PBXTextBookmark */ = {
+	A0AA53750ECBFAA700A4E946 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = A07AD3DE0E8381DE00DA1E7F /* README */;
 		name = "README: 1";
 		rLen = 0;
 		rLoc = 0;
 		rType = 0;
-		vrLen = 111;
+		vrLen = 189;
 		vrLoc = 0;
 	};
-	A0AA53750ECBFAA700A4E946 /* PBXTextBookmark */ = {
+	A0AF953A0EDACF25004F40EC /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = A07AD3DE0E8381DE00DA1E7F /* README */;
 		name = "README: 1";
@@ -230,6 +231,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = Colores;
+		savedGlobals = {
+		};
 		sourceDirectories = (
 		);
 	};

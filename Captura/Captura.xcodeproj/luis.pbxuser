@@ -24,6 +24,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = A0EF0E4C0EA5791800EAC1C7 /* Captura */;
+		activeSDKPreference = iphoneos2.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Captura */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* Captura */,
@@ -57,17 +58,16 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 248248529;
-			PBXWorkspaceStateSaveDate = 248248529;
+			PBXPerProjectTemplateStateSaveDate = 249220430;
+			PBXWorkspaceStateSaveDate = 249220430;
 		};
 		perUserProjectItems = {
 			A09581290EAEB3FB00A62DB1 /* PBXTextBookmark */ = A09581290EAEB3FB00A62DB1 /* PBXTextBookmark */;
 			A095812B0EAEB3FB00A62DB1 /* PBXTextBookmark */ = A095812B0EAEB3FB00A62DB1 /* PBXTextBookmark */;
 			A09688720EC423C400BC333A /* PBXTextBookmark */ = A09688720EC423C400BC333A /* PBXTextBookmark */;
 			A0AA52F50ECBF8D500A4E946 /* PBXTextBookmark */ = A0AA52F50ECBF8D500A4E946 /* PBXTextBookmark */;
-			A0AA52F60ECBF8D500A4E946 /* PBXTextBookmark */ = A0AA52F60ECBF8D500A4E946 /* PBXTextBookmark */;
-			A0AA52F70ECBF8D500A4E946 /* PBXTextBookmark */ = A0AA52F70ECBF8D500A4E946 /* PBXTextBookmark */;
 			A0AA52F80ECBF8D500A4E946 /* PBXTextBookmark */ = A0AA52F80ECBF8D500A4E946 /* PBXTextBookmark */;
+			A0AF95020EDACDCF004F40EC /* PBXTextBookmark */ = A0AF95020EDACDCF004F40EC /* PBXTextBookmark */;
 			A0B851E60EA864F50095A1AC /* PBXTextBookmark */ = A0B851E60EA864F50095A1AC /* PBXTextBookmark */;
 			A0B851E90EA864F50095A1AC /* PBXTextBookmark */ = A0B851E90EA864F50095A1AC /* PBXTextBookmark */;
 			A0B851EA0EA864F50095A1AC /* PBXBookmark */ = A0B851EA0EA864F50095A1AC /* PBXBookmark */;
@@ -124,7 +124,7 @@
 		vrLen = 500;
 		vrLoc = 0;
 	};
-	A0AA52F60ECBF8D500A4E946 /* PBXTextBookmark */ = {
+	A0AA52F80ECBF8D500A4E946 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = A0EF102C0EA59D9000EAC1C7 /* README */;
 		name = "README: 6";
@@ -134,17 +134,7 @@
 		vrLen = 105;
 		vrLoc = 0;
 	};
-	A0AA52F70ECBF8D500A4E946 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* CapturaAppDelegate.m */;
-		name = "CapturaAppDelegate.m: 10";
-		rLen = 33;
-		rLoc = 164;
-		rType = 0;
-		vrLen = 500;
-		vrLoc = 0;
-	};
-	A0AA52F80ECBF8D500A4E946 /* PBXTextBookmark */ = {
+	A0AF95020EDACDCF004F40EC /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = A0EF102C0EA59D9000EAC1C7 /* README */;
 		name = "README: 6";

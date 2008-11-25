@@ -16,6 +16,8 @@
 @synthesize loadButton;
 @synthesize deleteAllButton;
 
+
+
 - (void)awakeFromNib {
   [self touchedLoad:self];
 }

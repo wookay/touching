@@ -17,6 +17,7 @@
 - (void)dealloc {
     [date release];
     [image release];
+
     [super dealloc];
 }
 

@@ -323,14 +323,14 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A0AA53750ECBFAA700A4E946</string>
+										<string>A0AF953A0EDACF25004F40EC</string>
 										<key>history</key>
 										<array>
 											<string>A0AA52B00ECBF8AF00A4E946</string>
 											<string>A0AA52B10ECBF8AF00A4E946</string>
 											<string>A0AA52B20ECBF8AF00A4E946</string>
 											<string>A0AA52B30ECBF8AF00A4E946</string>
-											<string>A0AA53080ECBF8E300A4E946</string>
+											<string>A0AA53750ECBFAA700A4E946</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -396,9 +396,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A0AA53730ECBFA8000A4E946</string>
+				<string>A0AF953B0EDACF25004F40EC</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A0AA53740ECBFA8000A4E946</string>
+				<string>A0AF953C0EDACF25004F40EC</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -532,6 +532,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>A0AF95450EDACF25004F40EC</string>
+		<string>A0AF95460EDACF25004F40EC</string>
+		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
+		<string>A0C28B7F0E83813000CC1BAC</string>
 		<string>/Users/luis/git/touching/Colores/Colores.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -612,7 +617,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>A0C28B7F0E83813000CC1BAC</string>
-				<string>A0AA52D40ECBF8AF00A4E946</string>
+				<string>A0AF953D0EDACF25004F40EC</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -732,13 +737,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>A0AA52370ECBEDFE00A4E946</string>
+				<string>A0AF953E0EDACF25004F40EC</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>A0AA52380ECBEDFE00A4E946</string>
-				<string>A0AA52390ECBEDFE00A4E946</string>
-				<string>A0AA523A0ECBEDFE00A4E946</string>
-				<string>A0AA523B0ECBEDFE00A4E946</string>
-				<string>A0AA523C0ECBEDFE00A4E946</string>
+				<string>A0AF953F0EDACF25004F40EC</string>
+				<string>A0AF95400EDACF25004F40EC</string>
+				<string>A0AF95410EDACF25004F40EC</string>
+				<string>A0AF95420EDACF25004F40EC</string>
+				<string>A0AF95430EDACF25004F40EC</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -900,7 +905,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>A0AA52D50ECBF8AF00A4E946</string>
+				<string>A0AF95440EDACF25004F40EC</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

@@ -7,8 +7,8 @@
 //
 
 #import "MovimientoView.h"
-#import <UIKit/UIAnimator.h>
-#import <UIKit/UITransformAnimation.h>
+//#import <UIKit/UIAnimator.h>
+//#import <UIKit/UITransformAnimation.h>
 
 @implementation MovimientoView
 

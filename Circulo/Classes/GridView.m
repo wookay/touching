@@ -9,8 +9,8 @@
 #import "GridView.h"
 #import "CirculoView.h"
 #import <QuartzCore/QuartzCore.h>
-#import <UIKit/UIAnimator.h>
-#import <UIKit/UITransformAnimation.h>
+//#import <UIKit/UIAnimator.h>
+//#import <UIKit/UITransformAnimation.h>
 
 @implementation GridView
 
