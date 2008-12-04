@@ -14,12 +14,16 @@
 @synthesize window;
 
 - (IBAction) touchedLeakButton:(id)sender {
-  [[LeakView alloc] init];
-  [[LeakView alloc] init];
-  [[LeakView alloc] init];
-  [[LeakView alloc] init];
-  [[LeakView alloc] init];
-  [[LeakView alloc] init];
+  id leak1 = [[LeakView alloc] init];
+  id leak2 = [[LeakView alloc] init];
+  id leak3 = [[LeakView alloc] init];
+  id leak4 = [[LeakView alloc] init];
+  id leak5 = [[LeakView alloc] init];
+//  [leak1 release];
+//  [leak2 release];
+//  [leak3 release];
+//  [leak4 release];
+//  [leak5 release];
 }
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
