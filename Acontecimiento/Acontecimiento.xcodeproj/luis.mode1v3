@@ -295,7 +295,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>247 88 851 690 0 0 1280 778 </string>
+						<string>569 88 851 690 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -323,7 +323,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A0AF94D80EDACCB0004F40EC</string>
+										<string>A08348BE0EE04A9E0012D474</string>
 										<key>history</key>
 										<array>
 											<string>A07266750E874CC800486A4A</string>
@@ -332,8 +332,8 @@
 											<string>A02FBEF60ED6A42C00CF1D24</string>
 											<string>A02FBEF80ED6A42C00CF1D24</string>
 											<string>A02FBFD00ED6AB8500CF1D24</string>
-											<string>A0AF94D60EDACCB0004F40EC</string>
-											<string>A09F035E0ED64ECB00866F85</string>
+											<string>A08348BA0EE04A9E0012D474</string>
+											<string>A08348BB0EE04A9E0012D474</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -345,7 +345,8 @@
 											<string>A072667C0E874CC800486A4A</string>
 											<string>A072667D0E874CC800486A4A</string>
 											<string>A07267080E875A0600486A4A</string>
-											<string>A0AF94D70EDACCB0004F40EC</string>
+											<string>A08348BC0EE04A9E0012D474</string>
+											<string>A08348BD0EE04A9E0012D474</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -359,7 +360,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {643, 471}}</string>
 								<key>RubberWindowFrame</key>
-								<string>247 88 851 690 0 0 1280 778 </string>
+								<string>569 88 851 690 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -379,7 +380,7 @@
 								<key>Frame</key>
 								<string>{{0, 476}, {643, 173}}</string>
 								<key>RubberWindowFrame</key>
-								<string>247 88 851 690 0 0 1280 778 </string>
+								<string>569 88 851 690 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -403,9 +404,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A0AF94D90EDACCB0004F40EC</string>
+				<string>A08348BF0EE04A9E0012D474</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A0AF94DA0EDACCB0004F40EC</string>
+				<string>A08348C00EE04A9E0012D474</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -539,15 +540,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>A0AF94E30EDACCB0004F40EC</string>
-		<string>A0AF94E40EDACCB0004F40EC</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>A06CB82B0E873961006B1B33</string>
 		<string>/Users/luis/git/touching/Acontecimiento/Acontecimiento.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>247 88 851 690 0 0 1280 778 </string>
+	<string>569 88 851 690 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
