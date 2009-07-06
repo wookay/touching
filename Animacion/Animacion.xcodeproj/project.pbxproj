@@ -7,41 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D3623260D0F684500981E51 /* BotonesAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* BotonesAppDelegate.m */; };
+		1D3623260D0F684500981E51 /* AnimacionAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AnimacionAppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
-		2899E5220DE3E06400AC0155 /* BotonesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* BotonesViewController.xib */; };
+		2899E5220DE3E06400AC0155 /* AnimacionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* AnimacionViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
-		28D7ACF80DDB3853001CB0EB /* BotonesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* BotonesViewController.m */; };
-		A0519F6D10019C3600A1A8A1 /* README in Resources */ = {isa = PBXBuildFile; fileRef = A0519F6C10019C3600A1A8A1 /* README */; };
-		A051A0501001A3CB00A1A8A1 /* UIButton-Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = A051A04F1001A3CB00A1A8A1 /* UIButton-Extensions.m */; };
-		A051A06F1001A4E100A1A8A1 /* 80-shopping-cart.png in Resources */ = {isa = PBXBuildFile; fileRef = A051A06E1001A4E100A1A8A1 /* 80-shopping-cart.png */; };
-		A051A07D1001A6E700A1A8A1 /* 80-shopping-cart-blue.png in Resources */ = {isa = PBXBuildFile; fileRef = A051A07C1001A6E700A1A8A1 /* 80-shopping-cart-blue.png */; };
-		A07E28841001D14D00347FFF /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A07E28831001D14D00347FFF /* Icon.png */; };
+		28D7ACF80DDB3853001CB0EB /* AnimacionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* AnimacionViewController.m */; };
+		A07E23FE1001C24300347FFF /* SpriteView.m in Sources */ = {isa = PBXBuildFile; fileRef = A07E23FD1001C24300347FFF /* SpriteView.m */; };
+		A07E24181001C38300347FFF /* vincent.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A07E24171001C38300347FFF /* vincent.jpg */; };
+		A07E241E1001C3AB00347FFF /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A07E241D1001C3AB00347FFF /* QuartzCore.framework */; };
+		A07E28241001CE6D00347FFF /* bandaged.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A07E28231001CE6D00347FFF /* bandaged.jpg */; };
+		A07E28531001D09100347FFF /* README in Resources */ = {isa = PBXBuildFile; fileRef = A07E28521001D09100347FFF /* README */; };
+		A07E285F1001D10200347FFF /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A07E285E1001D10200347FFF /* Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* BotonesAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BotonesAppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* BotonesAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BotonesAppDelegate.m; sourceTree = "<group>"; };
-		1D6058910D05DD3D006BFB54 /* Botones.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Botones.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D3623240D0F684500981E51 /* AnimacionAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimacionAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* AnimacionAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimacionAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Animacion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animacion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		2899E5210DE3E06400AC0155 /* BotonesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BotonesViewController.xib; sourceTree = "<group>"; };
+		2899E5210DE3E06400AC0155 /* AnimacionViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AnimacionViewController.xib; sourceTree = "<group>"; };
 		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
-		28D7ACF60DDB3853001CB0EB /* BotonesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BotonesViewController.h; sourceTree = "<group>"; };
-		28D7ACF70DDB3853001CB0EB /* BotonesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BotonesViewController.m; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* AnimacionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimacionViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* AnimacionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimacionViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		32CA4F630368D1EE00C91783 /* Botones_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Botones_Prefix.pch; sourceTree = "<group>"; };
-		8D1107310486CEB800E47090 /* Botones-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Botones-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
-		A0519F6C10019C3600A1A8A1 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
-		A051A04E1001A3CB00A1A8A1 /* UIButton-Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton-Extensions.h"; sourceTree = "<group>"; };
-		A051A04F1001A3CB00A1A8A1 /* UIButton-Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton-Extensions.m"; sourceTree = "<group>"; };
-		A051A06E1001A4E100A1A8A1 /* 80-shopping-cart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "80-shopping-cart.png"; sourceTree = "<group>"; };
-		A051A07C1001A6E700A1A8A1 /* 80-shopping-cart-blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "80-shopping-cart-blue.png"; sourceTree = "<group>"; };
-		A07E28831001D14D00347FFF /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Animacion_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animacion_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Animacion-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Animacion-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A07E23FC1001C24300347FFF /* SpriteView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpriteView.h; sourceTree = "<group>"; };
+		A07E23FD1001C24300347FFF /* SpriteView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpriteView.m; sourceTree = "<group>"; };
+		A07E24171001C38300347FFF /* vincent.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vincent.jpg; sourceTree = "<group>"; };
+		A07E241D1001C3AB00347FFF /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		A07E28231001CE6D00347FFF /* bandaged.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bandaged.jpg; sourceTree = "<group>"; };
+		A07E28521001D09100347FFF /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		A07E285E1001D10200347FFF /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				A07E241E1001C3AB00347FFF /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,10 +64,12 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				1D3623240D0F684500981E51 /* BotonesAppDelegate.h */,
-				1D3623250D0F684500981E51 /* BotonesAppDelegate.m */,
-				28D7ACF60DDB3853001CB0EB /* BotonesViewController.h */,
-				28D7ACF70DDB3853001CB0EB /* BotonesViewController.m */,
+				1D3623240D0F684500981E51 /* AnimacionAppDelegate.h */,
+				1D3623250D0F684500981E51 /* AnimacionAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* AnimacionViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* AnimacionViewController.m */,
+				A07E23FC1001C24300347FFF /* SpriteView.h */,
+				A07E23FD1001C24300347FFF /* SpriteView.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -72,7 +77,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D6058910D05DD3D006BFB54 /* Botones.app */,
+				1D6058910D05DD3D006BFB54 /* Animacion.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -80,8 +85,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				A0519F6C10019C3600A1A8A1 /* README */,
-				A051A04A1001A3AC00A1A8A1 /* Extensions */,
+				A07E28521001D09100347FFF /* README */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -94,7 +98,7 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				32CA4F630368D1EE00C91783 /* Botones_Prefix.pch */,
+				32CA4F630368D1EE00C91783 /* Animacion_Prefix.pch */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 			);
 			name = "Other Sources";
@@ -103,10 +107,10 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A051A07F1001A6EE00A1A8A1 /* images */,
-				2899E5210DE3E06400AC0155 /* BotonesViewController.xib */,
+				A07E24191001C38800347FFF /* images */,
+				2899E5210DE3E06400AC0155 /* AnimacionViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
-				8D1107310486CEB800E47090 /* Botones-Info.plist */,
+				8D1107310486CEB800E47090 /* Animacion-Info.plist */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -114,6 +118,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A07E241D1001C3AB00347FFF /* QuartzCore.framework */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
@@ -121,22 +126,12 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		A051A04A1001A3AC00A1A8A1 /* Extensions */ = {
+		A07E24191001C38800347FFF /* images */ = {
 			isa = PBXGroup;
 			children = (
-				A051A04E1001A3CB00A1A8A1 /* UIButton-Extensions.h */,
-				A051A04F1001A3CB00A1A8A1 /* UIButton-Extensions.m */,
-			);
-			name = Extensions;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		A051A07F1001A6EE00A1A8A1 /* images */ = {
-			isa = PBXGroup;
-			children = (
-				A07E28831001D14D00347FFF /* Icon.png */,
-				A051A06E1001A4E100A1A8A1 /* 80-shopping-cart.png */,
-				A051A07C1001A6E700A1A8A1 /* 80-shopping-cart-blue.png */,
+				A07E285E1001D10200347FFF /* Icon.png */,
+				A07E24171001C38300347FFF /* vincent.jpg */,
+				A07E28231001CE6D00347FFF /* bandaged.jpg */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -144,9 +139,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1D6058900D05DD3D006BFB54 /* Botones */ = {
+		1D6058900D05DD3D006BFB54 /* Animacion */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Botones" */;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Animacion" */;
 			buildPhases = (
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
@@ -156,9 +151,9 @@
 			);
 			dependencies = (
 			);
-			name = Botones;
-			productName = Botones;
-			productReference = 1D6058910D05DD3D006BFB54 /* Botones.app */;
+			name = Animacion;
+			productName = Animacion;
+			productReference = 1D6058910D05DD3D006BFB54 /* Animacion.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -166,14 +161,14 @@
 /* Begin PBXProject section */
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Botones" */;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Animacion" */;
 			compatibilityVersion = "Xcode 3.1";
 			hasScannedForEncodings = 1;
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1D6058900D05DD3D006BFB54 /* Botones */,
+				1D6058900D05DD3D006BFB54 /* Animacion */,
 			);
 		};
 /* End PBXProject section */
@@ -184,11 +179,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
-				2899E5220DE3E06400AC0155 /* BotonesViewController.xib in Resources */,
-				A0519F6D10019C3600A1A8A1 /* README in Resources */,
-				A051A06F1001A4E100A1A8A1 /* 80-shopping-cart.png in Resources */,
-				A051A07D1001A6E700A1A8A1 /* 80-shopping-cart-blue.png in Resources */,
-				A07E28841001D14D00347FFF /* Icon.png in Resources */,
+				2899E5220DE3E06400AC0155 /* AnimacionViewController.xib in Resources */,
+				A07E24181001C38300347FFF /* vincent.jpg in Resources */,
+				A07E28241001CE6D00347FFF /* bandaged.jpg in Resources */,
+				A07E28531001D09100347FFF /* README in Resources */,
+				A07E285F1001D10200347FFF /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,9 +195,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				1D3623260D0F684500981E51 /* BotonesAppDelegate.m in Sources */,
-				28D7ACF80DDB3853001CB0EB /* BotonesViewController.m in Sources */,
-				A051A0501001A3CB00A1A8A1 /* UIButton-Extensions.m in Sources */,
+				1D3623260D0F684500981E51 /* AnimacionAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* AnimacionViewController.m in Sources */,
+				A07E23FE1001C24300347FFF /* SpriteView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,9 +212,9 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = Botones_Prefix.pch;
-				INFOPLIST_FILE = "Botones-Info.plist";
-				PRODUCT_NAME = Botones;
+				GCC_PREFIX_HEADER = Animacion_Prefix.pch;
+				INFOPLIST_FILE = "Animacion-Info.plist";
+				PRODUCT_NAME = Animacion;
 			};
 			name = Debug;
 		};
@@ -229,9 +224,9 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = Botones_Prefix.pch;
-				INFOPLIST_FILE = "Botones-Info.plist";
-				PRODUCT_NAME = Botones;
+				GCC_PREFIX_HEADER = Animacion_Prefix.pch;
+				INFOPLIST_FILE = "Animacion-Info.plist";
+				PRODUCT_NAME = Animacion;
 			};
 			name = Release;
 		};
@@ -265,7 +260,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Botones" */ = {
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Animacion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D6058940D05DD3E006BFB54 /* Debug */,
@@ -274,7 +269,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Botones" */ = {
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Animacion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug */,

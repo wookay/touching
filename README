@@ -1,9 +1,11 @@
-Colores : colors
-Acontecimiento : event
-Movimiento : movement
-Imagen : image
-Circulo : circle
-Capa : layer
-Cubo : cube
+Acontecimiento : touch events
+Animacion : animations
+Botones : buttons
+Capa : layers
 Captura : capture
-Persistencia : persistence
+Circulo : circles
+Colores : colors
+Cubo : cube
+Imagen : image
+Movimiento : movement
+Persistencia : SQLitePersistentObjects
